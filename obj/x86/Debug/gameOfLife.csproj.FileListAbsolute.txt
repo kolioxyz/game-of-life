@@ -1,0 +1,6 @@
+/home/niko/Projects/gameOfLife/gameOfLife/bin/Debug/gameOfLife.exe
+/home/niko/Projects/gameOfLife/gameOfLife/bin/Debug/gameOfLife.pdb
+/home/niko/Projects/gameOfLife/gameOfLife/obj/x86/Debug/gameOfLife.csprojAssemblyReference.cache
+/home/niko/Projects/gameOfLife/gameOfLife/obj/x86/Debug/gameOfLife.csproj.CoreCompileInputs.cache
+/home/niko/Projects/gameOfLife/gameOfLife/obj/x86/Debug/gameOfLife.exe
+/home/niko/Projects/gameOfLife/gameOfLife/obj/x86/Debug/gameOfLife.pdb
